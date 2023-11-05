@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '6a84d103-210c-4c2e-af71-5e5269434272'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'pokroypythontest'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
